@@ -1,4 +1,5 @@
 __pycache__/
 *.pyc
 .venv/
+output/
 what_to_avoid_reference/
